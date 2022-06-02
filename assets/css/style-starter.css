@@ -11369,7 +11369,7 @@ button.owl-next {
 
     /* BANNER ON OTHER SECTIONS */
 .inner-banner {
-  background: url(../images/staffs\ image\ 5.jpg) no-repeat center;
+  background: url(../images/iicwin.JPG) no-repeat center;
   background-size: cover;
   position: relative;
   z-index: 0;
@@ -11978,11 +11978,16 @@ a.team-title span.fa {
 #readmore-text{
   display: none;
 }
-.open-readmore-text{
+.readmore{
   display: block;
 }
 /* .staff{
   text-decoration: underline;
 } */
-
+.obj-img{
+  width: 400px;
+  height: 350px;
+  margin-left: 5em;
+  border-radius: 5%;
+}
 # sourceMappingURL=style-starter.css.map
